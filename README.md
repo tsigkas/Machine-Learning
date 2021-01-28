@@ -1,12 +1,12 @@
 # Machine-Learning
 Projects made while attending the course "Introduction to Machine Learning" at EPFL, using the following algorithms in Python:
 
-# K means clustering
+** K means clustering
 
-# k-Nearest-Neighbors (kNN) 
+** k-Nearest-Neighbors (kNN) 
 
-# Logistic Regression
+** Logistic Regression
 
-# Support Vector Machine (SVM)
+** Support Vector Machine (SVM)
 
-# Deep Learning - MLP's & CNN's
+** Deep Learning - MLP's & CNN's
