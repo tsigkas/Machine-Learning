@@ -5,7 +5,7 @@ Projects made while attending the course "Introduction to Machine Learning" at E
 
 - k-Nearest-Neighbors (kNN) 
 
-- Logistic Regression
+- Logistic Regression and Kernel Regression methods
 
 - Support Vector Machine (SVM)
 
