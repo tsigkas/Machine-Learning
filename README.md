@@ -10,3 +10,5 @@ Projects made while attending the course "Introduction to Machine Learning" at E
 - Support Vector Machine (SVM)
 
 - Deep Learning - MLP's & CNN's
+
+- Dimensionality reduction with PCA & LDA
